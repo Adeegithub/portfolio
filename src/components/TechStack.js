@@ -11,6 +11,7 @@ import {
   faDocker,
   faGit,
   faGithub,
+  faAws
 } from "@fortawesome/free-brands-svg-icons";
 import { motion } from "framer-motion";
 
@@ -22,7 +23,7 @@ const technologies = [
   { icon: faHtml5, name: "HTML5" },
   { icon: faCss3Alt, name: "CSS3" },
   { icon: faDocker, name: "Docker" },
-  { icon: faGit, name: "Git" },
+  { icon: faAws, name: "AWS" },
   { icon: faGithub, name: "GitHub" },
 ];
 
@@ -72,7 +73,7 @@ const TechStack = () => {
                     icon={tech.icon}
                     style={{
                       fontSize: "4rem",
-                      color: "#4caf50", // You can customize colors here
+                      color: "#2b2b2a", // You can customize colors here
                       marginBottom: "0.5rem",
                     }}
                   />

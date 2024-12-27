@@ -3,6 +3,7 @@ import { Link as MuiLink, Container, Typography, Box } from "@mui/material";
 import { Facebook, LinkedIn, GitHub, WhatsApp } from "@mui/icons-material";
 
 function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
     <Box
       id="footer"
@@ -125,7 +126,7 @@ function Footer() {
             <Typography variant="body1" >
               {/* Placeholder for contact info */}
               Adeesha Gunawardana <br></br>
-              © Copyright 2024 All Rights Reserved
+              © Copyright {currentYear} All Rights Reserved
             </Typography>
           </Box>
         </Box>

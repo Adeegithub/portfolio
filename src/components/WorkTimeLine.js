@@ -4,8 +4,15 @@ import { motion } from "framer-motion";
 import creativeLogo from "../assets/creativeLogo.png"
 import pageroLogo from "../assets/pageroLogo.png"
 import acjLogo from "../assets/acjLogo.png"
+import nimbusLogo from "../assets/nimbus.png"
 
 const timelineData = [
+    {
+      title: "Software Engineer",
+      company: "Nimbus Venture",
+      dateRange: "December 2024 - Present",
+      logo: [nimbusLogo],
+    },
     {
       title: "Software Engineering Intern",
       company: "Creative Software | Pagero",

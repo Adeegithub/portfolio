@@ -15,8 +15,18 @@ import WeatherApp from "../assets/weather.webp";
 import SmartBulb from "../assets/smartbulb.jpg";
 import EMS from "../assets/ems.png";
 import portfolio from "../assets/portfolio.png";
+import microservice from "../assets/springboot.png"
 
 const projects = [
+  {
+    title: "Microservices Architecture Project",
+    description: `I'm developing a project to demonstrate microservices architecture using SpringBoot. 
+    This system is developing for a Bank. This system contains of 3 services namely Accounts Service, 
+    Cards Service and Loan Service. This project enhanced my knowledge about event driven architecture.`,
+    image: microservice,
+    link: "https://github.com/Adeegithub/accounts-microservice",
+    isPrivate: false,
+  },
   {
     title: "Pulse Lanka ",
     description: `Final Year Research Project. Pulse Lanka is an opinion mining system which extracts the

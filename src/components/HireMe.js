@@ -79,7 +79,7 @@ const HireMe = () => {
           gutterBottom
           fontFamily={"sans-serif"}
         >
-          Request Resume?
+          Get in Touch!
         </Typography>
 
         <Typography
@@ -88,7 +88,7 @@ const HireMe = () => {
           gutterBottom
           fontFamily={"sans-serif"}
         >
-          Wanna see how my skills align with your requirement? Shoot to my inbox for my resume.
+          Wanna see how my skills align with your requirements? Shoot to my inbox for my resume.
         </Typography>
 
         <Box

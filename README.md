@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### when publishing changes do the changes and test the changes. Once you're happy then run the following,
+`git add .`
+`git commit -m "Your commit message describing the changes"`
+`git push origin main`
+`npm run deploy`
+
+The `npm run deploy` command will automatically:
+
+•Build your project again with the new changes
+•Push the new build to the gh-pages branch
+•Update your live site
+
+You don't need to change any GitHub settings - just wait a few minutes after running npm run deploy for the changes to appear on your live site.

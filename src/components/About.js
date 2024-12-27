@@ -24,14 +24,22 @@ import cricket6 from "../assets/cricket6.jpg";
 
 const About = () => {
   const text =
-    "I am a recent graduate with a First-Class Honours degree in Software Engineering, bringing a solid foundation in programming, problem-solving, and software development. Over the past year, I gained valuable hands-on experience as a Software Engineering Intern, where I contributed to real-world projects and honed my skills in a professional environment. I am passionate about building innovative software solutions and am eager to apply my knowledge and experience in a dynamic team setting.".split(
-      ""
-    );
+    `Software Engineer specializing in cloud-native applications and microservices architecture, with expertise in Java, 
+    Spring Boot, and AWS. Previously contributed to innovative projects at Creative Software and Pagero as a Software 
+    Engineering Intern, working with React.js and Java/Scala. 
+    Armed with a First-Class Honours degree in BEng Software Engineering from the University of Westminster, I’ve merged 
+    academic excellence with hands-on experience. My time at university, coupled with real-world exposure, has shaped my 
+    ability to tackle complex challenges with analytical precision and creative problem-solving.`
+    .split("");
 
   const text2 =
-    "If I weren't immersed in the world of technology, you would probably find me on the cricket field, chasing my dreams as a professional cricket player. My passion for cricket runs deep; from my early days playing Under 13 cricket to leading my school’s 1st XI team, and proudly vice-captaining the Under 15 squad, cricket has always been a significant part of my life. At university, I had the honor of captaining our cricket team, and I even represented the creative software cricket team. The thrill of the game, the camaraderie, and the spirit of competition are experiences that have shaped me just as much as my journey in tech.".split(
-      ""
-    );
+    `If I weren't immersed in the world of technology, you would probably find me on the cricket field, chasing my dreams 
+    as a professional cricket player. My passion for cricket runs deep; from my early days playing Under 13 cricket to 
+    leading my school’s 1st XI team, and proudly vice-captaining the Under 15 squad, cricket has always been a significant
+     part of my life. At university, I had the honor of captaining our cricket team, and I even represented the creative 
+     software cricket team. The thrill of the game, the camaraderie, and the spirit of competition are experiences that 
+     have shaped me just as much as my journey in tech.`
+    .split("");
 
   const [openVideo, setOpenVideo] = useState(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -263,7 +271,7 @@ const About = () => {
                       zIndex: 2000,
                     }}
                   >
-                    {isFullscreen ? <CloseIcon /> : <CloseIcon />}
+                    {/* {isFullscreen ? <CloseIcon /> : <CloseIcon />} */}
                   </IconButton>
                 </motion.div>
               </motion.div>
