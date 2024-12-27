@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.af60ca4a.css",
+    "main.js": "/my-portfolio/static/js/main.563e0057.js",
+    "static/js/453.41811d64.chunk.js": "/my-portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/ems.png": "/my-portfolio/static/media/ems.6ca113d691f9c6b0148b.png",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.9af7e3b233f559675ee6.jpg",
+    "static/media/cricket3.jpg": "/my-portfolio/static/media/cricket3.ce920d0dabd19ab03d67.jpg",
+    "static/media/cricket1.jpeg": "/my-portfolio/static/media/cricket1.3365b3beac38e9a500c2.jpeg",
+    "static/media/cricket6.jpg": "/my-portfolio/static/media/cricket6.bb6cbc7e8da2f1333bef.jpg",
+    "static/media/cricket2.jpeg": "/my-portfolio/static/media/cricket2.829664c3acdd78e7f559.jpeg",
+    "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.01be622b8a35bc4051ac.png",
+    "static/media/weather.webp": "/my-portfolio/static/media/weather.b5feb851b2f7f06fb57b.webp",
+    "static/media/smartbulb.jpg": "/my-portfolio/static/media/smartbulb.d04a8660bca1e483aacd.jpg",
+    "static/media/nlp.webp": "/my-portfolio/static/media/nlp.151415634274a2ba5e61.webp",
+    "static/media/cricket5.jpg": "/my-portfolio/static/media/cricket5.ab5f3a90ad2a9cfd7c63.jpg",
+    "static/media/deakinLogo.svg": "/my-portfolio/static/media/deakinLogo.d8cbd08c7b8b53d7eadaf057f865ce0f.svg",
+    "static/media/MahindaCollegeLogo.jpeg": "/my-portfolio/static/media/MahindaCollegeLogo.5567b7c4b073a2af308a.jpeg",
+    "static/media/acjLogo.png": "/my-portfolio/static/media/acjLogo.727d7794eb1c131a684b.png",
+    "static/media/slick.svg": "/my-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/my-portfolio/index.html",
+    "main.af60ca4a.css.map": "/my-portfolio/static/css/main.af60ca4a.css.map",
+    "main.563e0057.js.map": "/my-portfolio/static/js/main.563e0057.js.map",
+    "453.41811d64.chunk.js.map": "/my-portfolio/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af60ca4a.css",
+    "static/js/main.563e0057.js"
+  ]
+}

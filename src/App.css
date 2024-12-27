@@ -1,0 +1,39 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the overflow-x to hidden to prevent horizontal scrolling */
+body {
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #F4F4F4; /* Light gray background */
+}
+
+a {
+  color: #F77D00; /* INGCO's bright orange for links */
+}
+
+button {
+  background-color: #F77D00; /* Orange button background */
+  color: #fff; /* White text color */
+}
+
+button:hover {
+  background-color: #e66b00; /* Darker orange on hover */
+}
+
+body {
+  background-color: #F77D00;
+  margin: 0; /* Remove default margin to prevent unwanted space around the page */
+  padding: 0; /* Remove default padding to prevent unwanted space around the page */
+  font-family: 'Roboto', sans-serif; /* Optional: Set a default font-family */
+}
+
+html {
+  scroll-behavior: smooth;
+}
