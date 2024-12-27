@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.347cc6c5.css",
-    "main.js": "/portfolio/static/js/main.39573020.js",
+    "main.js": "/portfolio/static/js/main.43cdace9.js",
     "static/js/453.41811d64.chunk.js": "/portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.08693d2606fa24da84ff.jpg",
     "static/media/ems.png": "/portfolio/static/media/ems.6ca113d691f9c6b0148b.png",
-    "static/media/profile.jpg": "/portfolio/static/media/profile.9af7e3b233f559675ee6.jpg",
     "static/media/cricket3.jpg": "/portfolio/static/media/cricket3.ce920d0dabd19ab03d67.jpg",
     "static/media/cricket1.jpeg": "/portfolio/static/media/cricket1.3365b3beac38e9a500c2.jpeg",
     "static/media/cricket6.jpg": "/portfolio/static/media/cricket6.bb6cbc7e8da2f1333bef.jpg",
     "static/media/cricket2.jpeg": "/portfolio/static/media/cricket2.829664c3acdd78e7f559.jpeg",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.01be622b8a35bc4051ac.png",
+    "static/media/springboot.png": "/portfolio/static/media/springboot.eaf5ec4f47ebc7d90948.png",
     "static/media/weather.webp": "/portfolio/static/media/weather.b5feb851b2f7f06fb57b.webp",
     "static/media/smartbulb.jpg": "/portfolio/static/media/smartbulb.d04a8660bca1e483aacd.jpg",
     "static/media/nlp.webp": "/portfolio/static/media/nlp.151415634274a2ba5e61.webp",
@@ -23,11 +24,11 @@
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
     "main.347cc6c5.css.map": "/portfolio/static/css/main.347cc6c5.css.map",
-    "main.39573020.js.map": "/portfolio/static/js/main.39573020.js.map",
+    "main.43cdace9.js.map": "/portfolio/static/js/main.43cdace9.js.map",
     "453.41811d64.chunk.js.map": "/portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.347cc6c5.css",
-    "static/js/main.39573020.js"
+    "static/js/main.43cdace9.js"
   ]
 }
